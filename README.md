@@ -1,8 +1,12 @@
 # CG  with OpenGL + C++
 
-### 🟢 helloWorldOpenGL imagens [Download.zip](https://github.com/david-jc-br/CG/files/8923818/MyFirstOpenGL.zip)
+### 🟢 helloWorldOpenGL 
+![image](https://user-images.githubusercontent.com/73839667/174441613-51cd3d35-d807-4eaa-be42-d30b8a216acd.png)
+---
+### 🟠 Exercicíos de Aula:
 
-![image](https://user-images.githubusercontent.com/73839667/174205282-b816647a-dd16-4dd7-b46b-5931d65f5f17.png)
+* exercicío01
+![image](https://user-images.githubusercontent.com/73839667/174441823-63710665-a9a1-458c-b2d7-6c6f95391e7e.png)
 
-![image](https://user-images.githubusercontent.com/73839667/174205291-5ece4001-5697-4bc2-9318-6489d1697476.png)
 
+            
