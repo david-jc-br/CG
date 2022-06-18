@@ -8,5 +8,8 @@
 * exercicío01
 ![image](https://user-images.githubusercontent.com/73839667/174441823-63710665-a9a1-458c-b2d7-6c6f95391e7e.png)
 
+* exercicio02 
+![image](https://user-images.githubusercontent.com/73839667/174443933-93655eab-7d38-4820-9e29-934c7e27cc98.png)
+
 
             
